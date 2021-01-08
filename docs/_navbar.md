@@ -6,7 +6,7 @@
   * [web book](https://github.com/procip/sormas)
   * [PDF](https://github.com/procip/sormas)
   * [eBook](https://github.com/procip/sormas)
-  * [Print-on-demand](report/formats.md)
+  * [Print-on-demand](files/formats.md)
 
 <!--
 
