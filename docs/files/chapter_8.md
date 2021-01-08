@@ -47,5 +47,3 @@ und unter Sensible Personendaten:
 ausgewählt werden. Der Landkreis unter Stammdaten bezieht sich auf die
 Einrichtung, in der der Fall gemeldet ist. Die Gemeinde der Meldeadresse findet
 man im Landkreis der Sensiblen Personendaten.
-
-## Bibliography
