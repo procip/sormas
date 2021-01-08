@@ -1,4 +1,153 @@
-# Table of contents
+# Inhalt
+
+<ul>
+  <li><a href="chapter_1.md">Allgemeine Informationen</a>
+    <ul>
+      <li><a href="chapter_1.md#fallbeauftragte-spezi">Fallbeauftragte (Spezi)</a>
+      </li>
+      <li><a href="#H5854882">Kontaktbeauftragte</a>
+      </li>
+      <li><a href="#H6882786">Laborbeauftragte</a>
+      </li>
+      <li><a href="#H48341">Verwaltung</a>
+      </li>
+      <li><a href="#H3854785">Hotline</a>
+      </li>
+      <li><a href="#H7604821">Team Recht</a>
+      </li>
+      <li><a href="#H2236164">SORMAS</a>
+        <ul>
+          <li><a href="#H5783797">Anmeldung</a>
+          </li>
+          <li><a href="#H3928266">Startseite</a>
+          </li>
+          <li><a href="#H2625771">Pflichtfelder</a>
+          </li>
+          <li><a href="#H5573818">Orientierung</a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><a href="#02">Neuer Fall/Neuer Kontakt anlegen</a>
+    <ul>
+      <li><a href="#H5636879">1.) Labor-(Arzt)meldung</a>
+        <ul>
+          <li><a href="#H5212375">Prüfen Kontaktperson oder verdachts, bzw. bestätigter Fall</a>
+          </li>
+          <li><a href="#H4477644">Neuen Fall anlegen</a>
+            <ul>
+              <li><a href="#H3495964">Meldeaddress prüfen</a>
+              </li>
+              <li><a href="#H7010664">Nächster Schritt: "Neue Probe erstellen"</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li><a href="#H2497832">2.) Hotline</a>
+        <ul>
+          <li><a href="#H1571287">Prüfen Kontaktperson, bzw Verdachtsfall, bzw. bestätigter Fall</a>
+          </li>
+          <li><a href="#H7495394">Neuen Fall anlegen</a>
+            <ul>
+              <li><a href="#H7458691">Nächster Schritt: "Neue Probe erstellen"</a>
+              </li>
+            </ul>
+          </li>
+          <li><a href="#H3834498">Neuen Kontakt anlegen</a>
+          </li>
+          <li><a href="#H3517503">Fall oder Kontakt bearbeiten</a>
+          </li>
+          <li><a href="#H1470203">Aufgabe erstellen: Falluntersuchung</a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+
+  <li><a href="#03">Neue (Labor-) Probe erstellen</a></li>
+
+  <li><a href="#04">Falleruntersuchung durchführen</a>
+    <ul>
+      <li><a href="#H3814761">Aufgabe bearbeiten: Falluntersuchung</a>
+      </li>
+      <li><a href="#H2200429">Validieren</a>
+      </li>
+      <li><a href="#H8631455">Falldaten</a>
+        <ul>
+          <li><a href="#H3993454">Fall bewerten</a>
+            <ul>
+              <li><a href="#H6924209">Fall Person</a>
+              </li>
+              <li><a href="#H5637489">Fall Symptome</a>
+              </li>
+              <li><a href="#H1300825">Fall Kontakte</a>
+              </li>
+              <li><a href="#H9834328">Bewertung nach Falluntersuchung</a>
+              </li>
+            </ul>
+          </li>
+          <li><a href="#H8740922">Bescheid Isolierung erstellen</a>
+          </li>
+          <li><a href="#H5261911">Aufgabe erstellen: Übermittlung an KVSH</a>
+          </li>
+          <li><a href="#H4652735">Aufgabe erstellen: Übermittlung SurvNet/Landesstelle Kiel</a>
+            <ul>
+              <li><a href="#H2268847">Bewertung Ereignis (Häufungen von drei und mehr Fällen)</a>
+              </li>
+              <li><a href="#H6354213">Teilnehmer/innen zu Ereignis hinzufügen</a>
+              </li>
+              <li><a href="#H5381301">Aufgabe für Mitteilungen Pressestelle</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+
+  <li><a href="#05">Kontaktuntersuchung</a>
+    <ul>
+      <li><a href="#H7133528">Kontakt hinzufügen</a>
+        <ul>
+          <li><a href="#H9951656">Quarantänebescheid erstellen. WICHTIG!</a>
+          </li>
+        </ul>
+      </li>
+      <li><a href="#H9238178">Qurantäne Zeitraum anpassen</a>
+        <ul>
+          <li><a href="#H7393228">Kontaktperson in Fall konvertieren</a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+
+  <li><a href="#06">Reiserückkehrer</a>
+    <ul>
+      <li><a href="#H1233272">Reiserückkehrer hinzufügen</a>
+      </li>
+    </ul>
+  </li>
+
+  <li><a href="#07">Besonderheiten</a>
+    <ul>
+      <li><a href="#H581548">Todesfälle</a>
+      </li>
+    </ul>
+  </li>
+
+  <li><a href="#08">Auswertungen</a>
+    <ul>
+      <li><a href="#H3083038">Pressestelle</a>
+      </li>
+      <li><a href="#H1280826">Lagemeldungen</a>
+      </li>
+    </ul>
+  </li>
+
+</ul>
 
 <!--
 
