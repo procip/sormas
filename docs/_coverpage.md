@@ -2,7 +2,7 @@
 
 > SORMAS Handbuch
 
-# (Surveillance Outbreak Response Management and Analysis System)
+# Surveillance Outbreak Response Management and Analysis System
 
 > Entwurf
 
