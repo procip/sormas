@@ -8,4 +8,4 @@
 
 - 2021
 
-[Read](files/chapter_0.md) [About](#about-the-report)
+[Lesen Sie](files/chapter_0.md) [Über](#über)
