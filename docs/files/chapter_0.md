@@ -1,9 +1,9 @@
 # Inhalt
 
 <ul>
-  <li><a href="chapter_1.md">Allgemeine Informationen</a>
+  <li><a href="#/files/chapter_1">Allgemeine Informationen</a>
     <ul>
-      <li><a href="chapter_1.md#fallbeauftragte-spezi">Fallbeauftragte (Spezi)</a>
+      <li><a href="#/files/chapter_1?id=fallbeauftragte-spezi">Fallbeauftragte (Spezi)</a>
       </li>
       <li><a href="#H5854882">Kontaktbeauftragte</a>
       </li>
@@ -29,7 +29,7 @@
       </li>
     </ul>
   </li>
-  <li><a href="#02">Neuer Fall/Neuer Kontakt anlegen</a>
+  <li><a href="#/files/chapter_2">Neuer Fall/Neuer Kontakt anlegen</a>
     <ul>
       <li><a href="#H5636879">1.) Labor-(Arzt)meldung</a>
         <ul>
@@ -66,9 +66,9 @@
     </ul>
   </li>
 
-  <li><a href="#03">Neue (Labor-) Probe erstellen</a></li>
+  <li><a href="#/files/chapter_3">Neue (Labor-) Probe erstellen</a></li>
 
-  <li><a href="#04">Falleruntersuchung durchführen</a>
+  <li><a href="#/files/chapter_4">Falleruntersuchung durchführen</a>
     <ul>
       <li><a href="#H3814761">Aufgabe bearbeiten: Falluntersuchung</a>
       </li>
@@ -107,7 +107,7 @@
     </ul>
   </li>
 
-  <li><a href="#05">Kontaktuntersuchung</a>
+  <li><a href="#/files/chapter_5">Kontaktuntersuchung</a>
     <ul>
       <li><a href="#H7133528">Kontakt hinzufügen</a>
         <ul>
@@ -124,21 +124,21 @@
     </ul>
   </li>
 
-  <li><a href="#06">Reiserückkehrer</a>
+  <li><a href="#/files/chapter_6">Reiserückkehrer</a>
     <ul>
       <li><a href="#H1233272">Reiserückkehrer hinzufügen</a>
       </li>
     </ul>
   </li>
 
-  <li><a href="#07">Besonderheiten</a>
+  <li><a href="#/files/chapter_7">Besonderheiten</a>
     <ul>
       <li><a href="#H581548">Todesfälle</a>
       </li>
     </ul>
   </li>
 
-  <li><a href="#08">Auswertungen</a>
+  <li><a href="#/files/chapter_8">Auswertungen</a>
     <ul>
       <li><a href="#H3083038">Pressestelle</a>
       </li>
@@ -147,6 +147,11 @@
     </ul>
   </li>
 
+</ul>
+
+<ul>
+  <li><a href="#/files/chapter_9">Glossar</a>
+  </li>
 </ul>
 
 <!--
