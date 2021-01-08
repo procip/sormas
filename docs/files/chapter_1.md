@@ -1,6 +1,4 @@
-SOR00. Allgemeine Informationen
-
-## Abstract
+# Allgemeine Informationen
 
 Im Corona-Team des Gesundheitsamt Nordfriesland (GA NF) arbeiten Kollegen/innen
 aus unterschiedlichen Bereichen - und mit unterschiedlichen Qualifikationen -
@@ -235,7 +233,7 @@ entsprechend von unterschiedlichen Teams bearbeitet werden
 | Probenentnahme    | Probe organisieren                                                       | Abstrichteam              |
 | Andere Aufgabe    |                                                                          |                           |
 
-### Aktenvermerke 
+### Aktenvermerke
 
 In dem Feld „*Allgemeiner Kommentar*“ unter Fälle/Kontakte können wichtige
 Informatioen festgehalten, wie z.B. Aktenvermerke.
@@ -245,5 +243,3 @@ Hier kann beispielsweise eingefügt werden:
 1.  Quarantäne ausgesprochen (Name Datum)
 
 2.  Patient wird von Tafel Husum versorgt
-
-## Bibliography

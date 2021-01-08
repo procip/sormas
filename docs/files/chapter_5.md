@@ -1,6 +1,4 @@
-SOR04. Kontaktuntersuchung
-
-## Abstract
+# Kontaktuntersuchung
 
 Es gibt es verschiedene Möglichkeiten eine Kontakperson zu einem (Index)Fall
 hinzu zu ordnen.
@@ -120,7 +118,7 @@ durchführt.
 Es ist geplant das quarantänisierte Kontakte zukünftig auch das digitale
 Symptomtagebuch CLIMEO nutzen können um ihre Symptome dem GA NF mitzuteilen.
 
-#### Kontaktperson in Fall konvertieren 
+#### Kontaktperson in Fall konvertieren
 
 Sobald eine bestätigte Kontaktperson, die sich aktuell in Quarantäne befindet
 symptomatisch wird muss der Kontakt in einen Fall konvertiert werden.
@@ -137,5 +135,3 @@ Im Anschluss wird eine "Neue Aufgabe" für „Fallermittlung“ erstellt und in 
 Kommentarfelg geschrieben, dass es sich um eine Kontaktperson handelt, welche
 Symptome entwickelt hat. Zu dem dann neuen Fall werden dann Symptome und alle
 weiteren Angaben ergänzt.
-
-## Bibliography

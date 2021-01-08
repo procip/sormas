@@ -1,8 +1,6 @@
-SOR05. Reiserückkehrer
+# Reiserückkehrer
 
-## Abstract
-
-## Reiserückkehrer hinzufügen 
+## Reiserückkehrer hinzufügen
 
 Aus der Datenbank des bundesweit einheitlichen Registrierungsportals der
 Bundesregierung (Internetseite: <https://einreiseanmeldung.de>) werden täglich
@@ -30,5 +28,3 @@ angepasst werden.
 
 Die angemeldeten Reiserückkehrer werden somit in den Statistiken als
 Kontaktpersonen aufgeführt und fallen nach 10 Tagen aus dieser wieder heraus.
-
-## Bibliography

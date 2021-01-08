@@ -1,6 +1,4 @@
-SOR01. Neuer Fall/Neuer Kontakt anlegen
-
-## Abstract
+# Neuer Fall/Neuer Kontakt anlegen
 
 Der Arbeitsprozess kann an unterschiedlichen Punkten starten,
 
@@ -24,7 +22,7 @@ angelegt.
 
 Hier schließen sich folgende Schritte an:
 
-### Prüfen Kontaktperson oder verdachts, bzw. bestätigter Fall 
+### Prüfen Kontaktperson oder verdachts, bzw. bestätigter Fall
 
 Dazu wird geprüft, ob die Person, egal ob Kontakt oder Fall, bereits in der
 Datenbank vorhanden ist. Mit dem Vornamen, Namen und/oder Geburtsdatum kann nun
@@ -154,7 +152,7 @@ dem **Kapitel: Neue Probe** erstellen)
 
 ## 2.) Hotline
 
-### Prüfen Kontaktperson, bzw Verdachtsfall, bzw. bestätigter Fall 
+### Prüfen Kontaktperson, bzw Verdachtsfall, bzw. bestätigter Fall
 
 Zuerst muss von der Hotline telefosch werden, ob es sich um eine Kontaktperson
 oder um einen Fall (z.B. Verdachts-, bestätigter Fall) handelt um den
@@ -328,5 +326,3 @@ Aufgabe“.
 In der **Aufgabe** wird als Aufgabentyp „**Kontaktuntersuchung**“ ausgewählt.
 Nun wird noch die Aufgabe an „**Team KPN**“ (KPN) zugewiesen. Das
 Fälligkeitsdatum muss nicht angepasst werden.
-
-## Bibliography

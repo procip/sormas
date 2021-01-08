@@ -1,6 +1,4 @@
-SOR02. Neue (Labor-) Probe erstellen
-
-## Abstract
+# Neue (Labor-) Probe erstellen
 
 Nachem eine Person als "**Neuer Fall**" eingetragen ist, muss als nächstes das
 Ergebnis der Labor-(bzw.Arzt)meldung unter „**Neue Probe erstellen**“ (den
@@ -47,5 +45,3 @@ Zu den Pflichtfeldern gehört hier
 -   "**Datum und Uhrzeit des Ergebnisses**" werden vom Laborbogen übernommen.
 
 Dann müssen die Angeben **gespeichert** werden.
-
-## Bibliography

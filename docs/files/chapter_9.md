@@ -1,4 +1,4 @@
-## Glossar
+# Glossar
 
 | **Asymptomatische Testung**           | Wird ein Fall asymptomatisch positiv getestet (Bsp.: Schnelltest vor Familienbesuch, Besuch in Altenheim) wird das Testergebnis durch einen PCR Test bestätigt, bis zum Testergebnis werden die Kontaktpersonen der letzten 14 Tage vor Testergebnis ermittelt                                                                                               |
 |---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

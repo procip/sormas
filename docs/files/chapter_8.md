@@ -1,6 +1,4 @@
-SOR07. Auswertungen
-
-## Abstract
+# Auswertungen
 
 ## Pressestelle
 
@@ -13,7 +11,7 @@ Unter Aufgaben knnen nun alle Aufgabe, die an „Presse MITTEILUNGEN“ zugewies
 sind und Fälligkeit am heutigen Tag haben oder bei denen die Fälligkeit
 überschritten wurde (nach dem Wochenende), abgearbeitet werdeb.
 
-## Lagemeldungen 
+## Lagemeldungen
 
 **Benutzerdefinierter Fall-Export**
 

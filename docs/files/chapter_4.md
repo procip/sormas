@@ -1,6 +1,4 @@
-SOR03. Falleruntersuchung durchführen
-
-## Abstract
+# Falleruntersuchung durchführen
 
 ### Aufgabe bearbeiten: Falluntersuchung
 
@@ -267,12 +265,10 @@ sollten zuerst über den Indexfall als Kontaktperson angelegt werden. Wird nun
 der Name im Ereignis hinzugefügt, taucht die bereits angelegte Kontaktperson als
 Vorschlag auf.
 
-#### **Aufgabe für Mitteilungen Pressestelle** 
+#### **Aufgabe für Mitteilungen Pressestelle**
 
 Nach dem Erstellen eines Ereignisses muss eine Aufgabe erstellt werden die dem
 Benutzer „MITTEILUNG Presse o.a.“ zugewiesen. Hierdurch wird die Pressestelle
 bzw. andere Nutzer die zu dieser Benutzergruppe gehören, durch das GA NF über
 Ereignisse in Einrichtungen wie Schulen, Kita, Alten-/Pflegeeinrichtungen,
 Einrichtungen der Eingliederungshilfe oder ähnliche informiert.
-
-## Bibliography
