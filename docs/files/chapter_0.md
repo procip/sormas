@@ -5,25 +5,25 @@
     <ul>
       <li><a href="#/files/chapter_1?id=fallbeauftragte-spezi">Fallbeauftragte (Spezi)</a>
       </li>
-      <li><a href="#H5854882">Kontaktbeauftragte</a>
+      <li><a href="#/files/chapter_1?id=kontaktbeauftragte">Kontaktbeauftragte</a>
       </li>
-      <li><a href="#H6882786">Laborbeauftragte</a>
+      <li><a href="#/files/chapter_1?id=laborbeauftragte">Laborbeauftragte</a>
       </li>
-      <li><a href="#H48341">Verwaltung</a>
+      <li><a href="#/files/chapter_1?id=verwaltung">Verwaltung</a>
       </li>
-      <li><a href="#H3854785">Hotline</a>
+      <li><a href="#/files/chapter_1?id=hotline">Hotline</a>
       </li>
-      <li><a href="#H7604821">Team Recht</a>
+      <li><a href="#/files/chapter_1?id=team-recht">Team Recht</a>
       </li>
-      <li><a href="#H2236164">SORMAS</a>
+      <li><a href="#/files/chapter_1?id=sormas">SORMAS</a>
         <ul>
-          <li><a href="#H5783797">Anmeldung</a>
+          <li><a href="#/files/chapter_1?id=anmeldung">Anmeldung</a>
           </li>
-          <li><a href="#H3928266">Startseite</a>
+          <li><a href="#/files/chapter_1?id=startseite">Startseite</a>
           </li>
-          <li><a href="#H2625771">Pflichtfelder</a>
+          <li><a href="#/files/chapter_1?id=pflichtfelder">Pflichtfelder</a>
           </li>
-          <li><a href="#H5573818">Orientierung</a>
+          <li><a href="#/files/chapter_1?id=orientierung">Orientierung</a>
           </li>
         </ul>
       </li>
