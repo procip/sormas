@@ -1,5 +1,7 @@
 # Table of contents
 
+<!--
+
 <ol class="numeric-decimals">
 <li>
 <a href="#/report/chapter_1.md">Introduction</a>
@@ -145,3 +147,5 @@
     </ol>
 
 </li>
+
+-->
