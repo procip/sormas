@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="fidus" xml:lang="de-DE" prefix="cc: http://creativecommons.org/ns#">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="fidus">79</dc:identifier>
+    <dc:title>SORMAS Handbuch</dc:title>
+    <dc:creator>
+      The Authors
+    </dc:creator>
+    <dc:language>de-DE</dc:language>
+    <meta property="dcterms:modified">2021-01-06T13:16:50Z</meta>
+    <dc:date>2021-01-06</dc:date>
+    <dc:rights>CCBY4.0</dc:rights>
+    <dc:publisher>SORMAS</dc:publisher>
+    <dc:subject>SORMAS</dc:subject>
+  </metadata>
+  <manifest>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml" />
+    <item id="t1" href="document-1.xhtml" media-type="application/xhtml+xml" />
+    <item id="t2" href="document-2.xhtml" media-type="application/xhtml+xml" />
+    <item id="t3" href="document-3.xhtml" media-type="application/xhtml+xml" />
+    <item id="t4" href="document-4.xhtml" media-type="application/xhtml+xml" />
+    <item id="t5" href="document-5.xhtml" media-type="application/xhtml+xml" />
+    <item id="t6" href="document-6.xhtml" media-type="application/xhtml+xml" />
+    <item id="t7" href="document-7.xhtml" media-type="application/xhtml+xml" />
+    <item id="t8" href="document-8.xhtml" media-type="application/xhtml+xml" />
+    <item id="t9" href="document-9.xhtml" media-type="application/xhtml+xml" />
+    <item id="nav" href="document-nav.xhtml" properties="nav" media-type="application/xhtml+xml" />
+    <item id="copyright" href="copyright.xhtml" media-type="application/xhtml+xml" />
+    <item id="img0" href="images/7e76cf4c-a04c-4825-94f2-d77832af6424.png" media-type="image/png" />
+    <item id="img1" href="images/a5225b16-c067-42cb-8061-7c9cac0592d4.png" media-type="image/png" />
+    <item id="img2" href="images/3fc3b3f3-c508-4442-8ba5-31f43c6e6dc5.png" media-type="image/png" />
+    <item id="img3" href="images/e27f4abb-027b-4c6c-853f-8e2f788a87a9.png" media-type="image/png" />
+    <item id="img4" href="images/fb11cb1c-0407-4773-a76b-521edc0b91e8.png" media-type="image/png" />
+    <item id="img5" href="images/4e4b0ad1-fa71-4e7d-bcd8-15394d61e78c.png" media-type="image/png" />
+    <item id="img6" href="images/48a5cc9a-1d4c-49fb-9abd-6c63deee7069.png" media-type="image/png" />
+    <item id="img7" href="images/046b1168-fd9d-4869-a8ac-c4168faf47ff.png" media-type="image/png" />
+    <item id="img8" href="images/49b4154b-099c-4b07-a795-1f9dc2f66cf3.png" media-type="image/png" />
+    <item id="img9" href="images/ebe6d7e0-7fed-4f6c-b2da-756696ea068a.png" media-type="image/png" />
+    <item id="img10" href="images/5dd4796c-f7b7-46a7-a68a-8f9bb1706388.png" media-type="image/png" />
+    <item id="img11" href="images/07ed9742-df86-4799-8c06-bff2952def97.png" media-type="image/png" />
+    <item id="img12" href="images/6f5e74c7-18a0-45e9-a0ef-2483de94a5d0.png" media-type="image/png" />
+    <item id="img13" href="images/e06efd28-dac9-48ea-b65a-6644f18c82d3.png" media-type="image/png" />
+    <item id="img14" href="images/7757fdcd-9fc2-4a1f-a4e1-a444c4deb665.png" media-type="image/png" />
+    <item id="img15" href="images/49d0874d-33ae-4ab2-8eaa-d263bb8e4000.png" media-type="image/png" />
+    <item id="img16" href="images/9389687a-9c07-45df-9958-1c45589aa6aa.png" media-type="image/png" />
+    <item id="img17" href="images/4dc76227-6f8b-4526-8b93-4da84cc03354.png" media-type="image/png" />
+    <item id="img18" href="images/301c5769-7891-45e8-aa30-d7ad787b0a8f.png" media-type="image/png" />
+    <item id="img19" href="images/819c80d7-9061-4f18-a610-a325fe6a9c33.png" media-type="image/png" />
+    <item id="img20" href="images/dee78bcf-fd19-45e6-bb59-510db9e0c61d.png" media-type="image/png" />
+    <item id="img21" href="images/4100c816-0a12-4547-b35b-cb8e799736bc.png" media-type="image/png" />
+    <item id="img22" href="images/1380c596-bd1d-4262-b405-a1982229985d.png" media-type="image/png" />
+    <item id="img23" href="images/6dd4f3c4-8ad8-4854-8bd4-a24547be2c7d.png" media-type="image/png" />
+    <item id="img24" href="images/511fc398-8cd5-4cdf-adc3-13d82ae0ffae.png" media-type="image/png" />
+    <item id="img25" href="images/e878b370-f2ae-4bbd-b94e-c6d4984df326.png" media-type="image/png" />
+    <item id="img26" href="images/d6431399-4540-4564-a43e-88c1cde6ebf8.png" media-type="image/png" />
+    <item id="img27" href="images/3a039dcc-6399-4086-8de5-1e2d18ed8a3a.png" media-type="image/png" />
+    <item id="img28" href="images/daf9794a-0b4d-4349-82b6-7bfa45539e4f.png" media-type="image/png" />
+    <item id="img29" href="images/6a31cb90-0ca7-4e8e-88bd-6fed17eced82.png" media-type="image/png" />
+    <item id="img30" href="images/2e568f83-401e-4758-9136-a897f37d063d.png" media-type="image/png" />
+    <item id="img31" href="images/7f8d878f-e7b8-4c51-aa90-7833f601d827.png" media-type="image/png" />
+    <item id="img32" href="images/eb399f79-2e48-46be-a31d-8478ad78ad52.png" media-type="image/png" />
+    <item id="img33" href="images/e02e1f4e-9f28-4660-9d23-230b7f913c9b.png" media-type="image/png" />
+    <item id="img34" href="images/fee680fd-73ab-4db4-ae15-7e5537bf258d.png" media-type="image/png" />
+    <item id="img35" href="images/64f4210c-9358-404d-958c-b12eab2a10fb.png" media-type="image/png" />
+    <item id="img36" href="images/afc79b5e-c524-4d7c-a63f-60d04d747e8d.png" media-type="image/png" />
+    <item id="img37" href="images/37eb93f5-1457-4723-aba6-26d384ec6707.png" media-type="image/png" />
+    <item id="img38" href="images/11a16c9c-b98c-40ef-bffc-72a813ac18a9.png" media-type="image/png" />
+    <item id="font0" href="css/media/IBMPlexSans-Medium.ttf" media-type="font/sfnt" />
+    <item id="font1" href="css/media/IBMPlexSans-Regular.ttf" media-type="font/sfnt" />
+    <item id="font2" href="css/media/NotoSans-Regular.ttf" media-type="font/sfnt" />
+    <item id="font3" href="css/media/NotoSans-Italic.ttf" media-type="font/sfnt" />
+    <item id="font4" href="css/media/NotoSans-SemiBold.ttf" media-type="font/sfnt" />
+    <item id="font5" href="css/media/NotoSans-SemiBoldItalic.ttf" media-type="font/sfnt" />
+    <item id="font6" href="css/media/NotoSerif-Regular.ttf" media-type="font/sfnt" />
+    <item id="font7" href="css/media/NotoSans-Medium.ttf" media-type="font/sfnt" />
+    <item id="css0" href="css/document.css" media-type="text/css" />
+    <item id="css1" href="css/default.css" media-type="text/css" />
+
+    <!-- ncx included for 2.0 reading system compatibility: -->
+    <item id="ncx" href="document.ncx" media-type="application/x-dtbncx+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage" linear="yes" />
+    <itemref idref="t1" linear="yes" />
+    <itemref idref="t2" linear="yes" />
+    <itemref idref="t3" linear="yes" />
+    <itemref idref="t4" linear="yes" />
+    <itemref idref="t5" linear="yes" />
+    <itemref idref="t6" linear="yes" />
+    <itemref idref="t7" linear="yes" />
+    <itemref idref="t8" linear="yes" />
+    <itemref idref="t9" linear="yes" />
+    <itemref idref="copyright" linear="yes" />
+    <itemref idref="nav" linear="no" />
+  </spine>
+</package>

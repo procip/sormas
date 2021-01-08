@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="de">
+  <head>
+    <meta name="dtb:fidus" content="79" />
+  </head>
+  <docTitle>
+    <text>SORMAS Handbuch</text>
+  </docTitle>
+  <navMap>
+
+    <!-- 2.01 NCX: playOrder is optional -->
+    <navPoint id="t1">
+      <navLabel><text>Title page</text></navLabel>
+      <content src="titlepage.xhtml#title" />
+    </navPoint>
+    <navPoint id="t_1_0-1">
+      <navLabel><text>SOROOPreface</text></navLabel>
+      <content src="document-1.xhtml#_1_0" />
+      <navPoint id="tH6812570-1">
+        <navLabel><text>Glossar</text></navLabel>
+        <content src="document-1.xhtml#H6812570" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_2_0-2">
+      <navLabel><text>SOR00. Allgemeine Informationen</text></navLabel>
+      <content src="document-2.xhtml#_2_0" />
+      <navPoint id="tH465210-2">
+        <navLabel><text>Fallbeauftragte (Spezi)</text></navLabel>
+        <content src="document-2.xhtml#H465210" />
+      </navPoint>
+      <navPoint id="tH5854882-2">
+        <navLabel><text>Kontaktbeauftragte</text></navLabel>
+        <content src="document-2.xhtml#H5854882" />
+      </navPoint>
+      <navPoint id="tH6882786-2">
+        <navLabel><text>Laborbeauftragte</text></navLabel>
+        <content src="document-2.xhtml#H6882786" />
+      </navPoint>
+      <navPoint id="tH48341-2">
+        <navLabel><text>Verwaltung</text></navLabel>
+        <content src="document-2.xhtml#H48341" />
+      </navPoint>
+      <navPoint id="tH3854785-2">
+        <navLabel><text>Hotline</text></navLabel>
+        <content src="document-2.xhtml#H3854785" />
+      </navPoint>
+      <navPoint id="tH7604821-2">
+        <navLabel><text>Team Recht</text></navLabel>
+        <content src="document-2.xhtml#H7604821" />
+      </navPoint>
+      <navPoint id="tH2236164-2">
+        <navLabel><text>SORMAS</text></navLabel>
+        <content src="document-2.xhtml#H2236164" />
+        <navPoint id="tH5783797-2">
+          <navLabel><text>Anmeldung</text></navLabel>
+          <content src="document-2.xhtml#H5783797" />
+        </navPoint>
+        <navPoint id="tH3928266-2">
+          <navLabel><text>Startseite</text></navLabel>
+          <content src="document-2.xhtml#H3928266" />
+        </navPoint>
+        <navPoint id="tH2625771-2">
+          <navLabel><text>Pflichtfelder</text></navLabel>
+          <content src="document-2.xhtml#H2625771" />
+        </navPoint>
+        <navPoint id="tH5573818-2">
+          <navLabel><text>Orientierung</text></navLabel>
+          <content src="document-2.xhtml#H5573818" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="tH6745811-2">
+        <navLabel><text>Aufgaben</text></navLabel>
+        <content src="document-2.xhtml#H6745811" />
+        <navPoint id="tH6025156-2">
+          <navLabel><text>Aufgaben abrufen</text></navLabel>
+          <content src="document-2.xhtml#H6025156" />
+        </navPoint>
+        <navPoint id="tH7809427-2">
+          <navLabel><text>Aufgaben öffnen</text></navLabel>
+          <content src="document-2.xhtml#H7809427" />
+        </navPoint>
+        <navPoint id="tH9066833-2">
+          <navLabel><text>Aufgabe abschließen</text></navLabel>
+          <content src="document-2.xhtml#H9066833" />
+        </navPoint>
+        <navPoint id="tH9212092-2">
+          <navLabel><text>Aufgabe anlegen</text></navLabel>
+          <content src="document-2.xhtml#H9212092" />
+        </navPoint>
+        <navPoint id="tH7956046-2">
+          <navLabel><text>Aktenvermerke</text></navLabel>
+          <content src="document-2.xhtml#H7956046" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_3_0-3">
+      <navLabel><text>SOR01. Neuer Fall/Neuer Kontakt anlegen</text></navLabel>
+      <content src="document-3.xhtml#_3_0" />
+      <navPoint id="tH5636879-3">
+        <navLabel><text>1.) Labor-(Arzt)meldung</text></navLabel>
+        <content src="document-3.xhtml#H5636879" />
+        <navPoint id="tH5212375-3">
+          <navLabel><text>Prüfen Kontaktperson oder verdachts, bzw. bestätigter Fall</text></navLabel>
+          <content src="document-3.xhtml#H5212375" />
+        </navPoint>
+        <navPoint id="tH4477644-3">
+          <navLabel><text>Neuen Fall anlegen</text></navLabel>
+          <content src="document-3.xhtml#H4477644" />
+          <navPoint id="tH3495964-3">
+            <navLabel><text>Meldeaddress prüfen</text></navLabel>
+            <content src="document-3.xhtml#H3495964" />
+          </navPoint>
+          <navPoint id="tH7010664-3">
+            <navLabel><text>Nächster Schritt: "Neue Probe erstellen"</text></navLabel>
+            <content src="document-3.xhtml#H7010664" />
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="tH2497832-3">
+        <navLabel><text>2.) Hotline</text></navLabel>
+        <content src="document-3.xhtml#H2497832" />
+        <navPoint id="tH1571287-3">
+          <navLabel><text>Prüfen Kontaktperson, bzw Verdachtsfall, bzw. bestätigter Fall</text></navLabel>
+          <content src="document-3.xhtml#H1571287" />
+        </navPoint>
+        <navPoint id="tH7495394-3">
+          <navLabel><text>Neuen Fall anlegen</text></navLabel>
+          <content src="document-3.xhtml#H7495394" />
+          <navPoint id="tH7458691-3">
+            <navLabel><text>Nächster Schritt: "Neue Probe erstellen"</text></navLabel>
+            <content src="document-3.xhtml#H7458691" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="tH3834498-3">
+          <navLabel><text>Neuen Kontakt anlegen</text></navLabel>
+          <content src="document-3.xhtml#H3834498" />
+        </navPoint>
+        <navPoint id="tH3517503-3">
+          <navLabel><text>Fall oder Kontakt bearbeiten</text></navLabel>
+          <content src="document-3.xhtml#H3517503" />
+        </navPoint>
+        <navPoint id="tH1470203-3">
+          <navLabel><text>Aufgabe erstellen: Falluntersuchung</text></navLabel>
+          <content src="document-3.xhtml#H1470203" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_4_0-4">
+      <navLabel><text>SOR02. Neue (Labor-) Probe erstellen</text></navLabel>
+      <content src="document-4.xhtml#_4_0" />
+    </navPoint>
+    <navPoint id="t_5_0-5">
+      <navLabel><text>SOR03. Falleruntersuchung durchführen</text></navLabel>
+      <content src="document-5.xhtml#_5_0" />
+      <navPoint id="tH3814761-5">
+        <navLabel><text>Aufgabe bearbeiten: Falluntersuchung</text></navLabel>
+        <content src="document-5.xhtml#H3814761" />
+      </navPoint>
+      <navPoint id="tH2200429-5">
+        <navLabel><text>Validieren</text></navLabel>
+        <content src="document-5.xhtml#H2200429" />
+      </navPoint>
+      <navPoint id="tH8631455-5">
+        <navLabel><text>Falldaten</text></navLabel>
+        <content src="document-5.xhtml#H8631455" />
+        <navPoint id="tH3993454-5">
+          <navLabel><text>Fall bewerten</text></navLabel>
+          <content src="document-5.xhtml#H3993454" />
+          <navPoint id="tH6924209-5">
+            <navLabel><text>Fall Person</text></navLabel>
+            <content src="document-5.xhtml#H6924209" />
+          </navPoint>
+          <navPoint id="tH5637489-5">
+            <navLabel><text>Fall Symptome</text></navLabel>
+            <content src="document-5.xhtml#H5637489" />
+          </navPoint>
+          <navPoint id="tH1300825-5">
+            <navLabel><text>Fall Kontakte</text></navLabel>
+            <content src="document-5.xhtml#H1300825" />
+          </navPoint>
+          <navPoint id="tH9834328-5">
+            <navLabel><text>Bewertung nach Falluntersuchung</text></navLabel>
+            <content src="document-5.xhtml#H9834328" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="tH8740922-5">
+          <navLabel><text>Bescheid Isolierung erstellen</text></navLabel>
+          <content src="document-5.xhtml#H8740922" />
+        </navPoint>
+        <navPoint id="tH5261911-5">
+          <navLabel><text>Aufgabe erstellen: Übermittlung an KVSH</text></navLabel>
+          <content src="document-5.xhtml#H5261911" />
+        </navPoint>
+        <navPoint id="tH4652735-5">
+          <navLabel><text>Aufgabe erstellen: Übermittlung SurvNet/Landesstelle Kiel</text></navLabel>
+          <content src="document-5.xhtml#H4652735" />
+          <navPoint id="tH2268847-5">
+            <navLabel><text>Bewertung Ereignis (Häufungen von drei und mehr Fällen)</text></navLabel>
+            <content src="document-5.xhtml#H2268847" />
+          </navPoint>
+          <navPoint id="tH6354213-5">
+            <navLabel><text>Teilnehmer/innen zu Ereignis hinzufügen</text></navLabel>
+            <content src="document-5.xhtml#H6354213" />
+          </navPoint>
+          <navPoint id="tH5381301-5">
+            <navLabel><text>Aufgabe für Mitteilungen Pressestelle</text></navLabel>
+            <content src="document-5.xhtml#H5381301" />
+          </navPoint>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_6_0-6">
+      <navLabel><text>SOR04. Kontaktuntersuchung</text></navLabel>
+      <content src="document-6.xhtml#_6_0" />
+      <navPoint id="tH7133528-6">
+        <navLabel><text>Kontakt hinzufügen</text></navLabel>
+        <content src="document-6.xhtml#H7133528" />
+        <navPoint id="tH9951656-6">
+          <navLabel><text>Quarantänebescheid erstellen. WICHTIG!</text></navLabel>
+          <content src="document-6.xhtml#H9951656" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="tH9238178-6">
+        <navLabel><text>Qurantäne Zeitraum anpassen</text></navLabel>
+        <content src="document-6.xhtml#H9238178" />
+        <navPoint id="tH7393228-6">
+          <navLabel><text>Kontaktperson in Fall konvertieren</text></navLabel>
+          <content src="document-6.xhtml#H7393228" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_7_0-7">
+      <navLabel><text>SOR05. Reiserückkehrer</text></navLabel>
+      <content src="document-7.xhtml#_7_0" />
+      <navPoint id="tH1233272-7">
+        <navLabel><text>Reiserückkehrer hinzufügen</text></navLabel>
+        <content src="document-7.xhtml#H1233272" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_8_0-8">
+      <navLabel><text>SOR06. Besonderheiten</text></navLabel>
+      <content src="document-8.xhtml#_8_0" />
+      <navPoint id="tH581548-8">
+        <navLabel><text>Todesfälle</text></navLabel>
+        <content src="document-8.xhtml#H581548" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_9_0-9">
+      <navLabel><text>SOR07. Auswertungen</text></navLabel>
+      <content src="document-9.xhtml#_9_0" />
+      <navPoint id="tH3083038-9">
+        <navLabel><text>Pressestelle</text></navLabel>
+        <content src="document-9.xhtml#H3083038" />
+      </navPoint>
+      <navPoint id="tH1280826-9">
+        <navLabel><text>Lagemeldungen</text></navLabel>
+        <content src="document-9.xhtml#H1280826" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="t2">
+      <navLabel><text>Copyright</text></navLabel>
+      <content src="copyright.xhtml#copyright" />
+    </navPoint>
+  </navMap>
+</ncx>
