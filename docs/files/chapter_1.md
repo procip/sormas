@@ -144,7 +144,7 @@ delegierte Arbeitsaufträge.
 In den Eingabemasken sind viele Felder mit „\*“ gekennzeichnet. Bei diesen
 Feldern handelt es sich um Pflichtfelder die ausgefüllt werden müssen.
 
-### <br>Orientierung
+### Orientierung
 
 Bitte immer orientieren, in welchem Menü-Bereich man Sie sich befindet. Auf der
 **linken Seite** der Software finden Sie dazu das Blaues Menu mit
